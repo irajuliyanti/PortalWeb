@@ -1,0 +1,36 @@
+.header {
+    margin-bottom: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
+.title-site h2,.title-page h2 {
+    font-size: 24px;
+}
+.author-shortcut {
+    padding: 20px;
+}
+.right-side-title {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0 -15px;
+    padding: 10px 15px;
+    background-color: #333;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.sidebar {
+    margin-top: -10px;
+    padding-top: 10px;
+    border-right: 1px solid #ddd;
+    min-height: 100%;
+}
+
+.sidebar .admin-menus {
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar .admin-menus li {
+    list-style: none;
+}
